@@ -1,0 +1,9 @@
+Copy all folder into your micro SD card
+
+https://voicemaker.in/
+ - Play file in SD Card (SD:\mp3\0001.mp3);  code:   myDFPlayer.playMp3Folder(1);
+
+	0001	Maker lab VN play <soft></soft>file name<break time='500ms'/> 0001 <break time='0.5s'/>in SD card
+
+	999	Maker lab VN play <soft></soft>file name<break time='500ms'/> <say-as interpret-as='characters'>999</say-as><break time='0.5s'/>in <break time='500ms'/><say-as interpret-as='characters'>02</say-as>folder
+	
